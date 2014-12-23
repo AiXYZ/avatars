@@ -1,6 +1,6 @@
             </div>
         <div id="Footer">
-            <p class="Copyright">merzent.com</p><?php include 'classes/avatar.php'; ?>
+            <p class="Copyright">merzent.com</p>
         </div>
 	</body>
 </html>

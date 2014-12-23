@@ -5,7 +5,8 @@ $Main = new MainClass();
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Free Avatar Maker</title>	
+		<title>Free Avatar Maker</title>
+		<link href="img/favicon.ico" type="image/x-icon" rel="shortcut icon">
 
 		<meta charset="UTF-8">
 		
